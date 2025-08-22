@@ -1,0 +1,7 @@
+# Permitir el acceso a todos los archivos en la carpeta cache
+<IfModule mod_rewrite.c>
+    RewriteEngine Off
+</IfModule>
+
+# Permitir navegación por directorios
+Options +Indexes

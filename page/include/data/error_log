@@ -1,0 +1,4 @@
+[29-Nov-2023 19:56:53 UTC] PHP Warning:  Undefined array key "id_carrito" in /home/ctomsomc3/public_html/tomsom/page/include/data/carrito.php on line 14
+[03-Jan-2024 16:11:50 America/Bogota] PHP Warning:  Undefined array key "nombre" in /home/ctomsomc3/public_html/tomsom/page/include/data/user.php on line 88
+[03-Jan-2024 16:11:50 America/Bogota] PHP Warning:  Undefined array key "email" in /home/ctomsomc3/public_html/tomsom/page/include/data/user.php on line 89
+[03-Jan-2024 16:11:50 America/Bogota] PHP Warning:  Undefined array key "contra" in /home/ctomsomc3/public_html/tomsom/page/include/data/user.php on line 90

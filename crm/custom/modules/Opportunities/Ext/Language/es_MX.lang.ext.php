@@ -1,0 +1,9 @@
+<?php
+// WARNING: The contents of this file are auto-generated
+
+
+// created: 2024-05-26 00:14:11
+$mod_strings['LBL_ACCOUNT_NAME'] = 'Nombre de la cuenta:';
+$mod_strings['LBL_ACCOUNTS'] = 'Clientes';
+$mod_strings['LBL_AOS_QUOTES'] = 'Cotizaciones';
+
